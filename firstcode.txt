@@ -1,1 +1,4 @@
 hello world !!i!111
+take input from user
+add the values
+
